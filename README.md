@@ -2,13 +2,19 @@
 
 Lista vseh neverjetnih must have repositorijev od super študentov, ki so must have za študij na FMF. Pull requesti so super zaželjeni, če ima kdo kakšen predlog.
 
-## Fizika
+### FMF.si
+
+Uradna FMF zapiski stran, but everybody knows that.
+
+https://fmf.si
 
 ### Krištof Špenko GDrive
 
 Nevem kaj bi brez tega Google Driva. Eden najboljših neuradnih resourcov, ki ga lahko dobiš.
 
 [Google Drive Link](https://drive.google.com/drive/folders/0B3flMWYcE_niTmVVckt4ZlNuakE?resourcekey=0-dOhPvHLevCxCsMbG82EZpQ&usp=sharing)
+
+## Fizika
 
 ### Elijan Mastnak Notes
 
