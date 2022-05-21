@@ -1,0 +1,89 @@
+## Contents
+
+-   [Optimal Combinations of
+    Measurements](#optimal-combinations-of-measurements)
+-   [Sensors](#sensors)
+-   [Statistics](#statistics)
+-   [Practical Circuits](#practical-circuits)
+-   [Displacement Sensors](#displacement-sensors)
+
+## Optimal Combinations of Measurements
+
+-   Describe the relevance of the central limit theorem of the
+    statistical distribution of noise. Describe noise arising from
+    alternating-current power lines (Brumov šum) and derive its power
+    spectrum $\dv{P}{}$
+
+-   Describe the properties and autocorrelation function of measurement
+    noise (merilni šum) in both discrete and continuous time.
+
+-   Describe the scalar Kalman filter in both discrete and continuous
+    time.
+
+-   Describe the vector Kalman filter in both discrete and continuous
+    time.
+
+-   Describe the dynamic noise terms $\omega_{n}$ and $\Gamma$ used in
+    our treatment of the Kalman filter. How do we explain dynamic noise
+    in the limit $\Delta t \to 0$ (i.e. the transition from discrete to
+    continuous time)?
+
+## Sensors
+
+-   What is a sensor's transfer function and what is it used for? What
+    are the transfer functions of first and second-order sensors?
+
+-   What are Bode plots and what are they used for?
+
+-   Derive the transfer function of a first-order sensor.
+
+-   Formulate a bicycle shock absorber as a second-order sensor and
+    derive its transfer function.
+
+-   What is an instrumentation amplifier and what is it used for? What
+    is a differnetial amplifier's common-mode rejection ratio?
+
+-   What are some of the important properties of thermal noise on a
+    resistor? Describe the high-frequency limit of thermal noise's
+    mean-squared voltage spectrum.
+
+-   Derive the mean-squared voltage spectrum of thermal noise on a
+    resistor from the Bose-Einstein frequency distribution of the energy
+    of "standing waves" in the resistor.
+
+## Statistics
+
+-   Describe the chi-squared test for estimation of the population
+    variance.
+
+-   Describe the Pearson chi-squared goodness-of-fit test and what it is
+    used for.
+
+-   Describe the Kolmogorov goodness-of-fit test and what it is used
+    for.
+
+-   Describe the method of least squares. How can this method be used to
+    resolve spectral peaks?
+
+## Practical Circuits
+
+-   Describe the basic working principles of a lock-in detector and some
+    practical uses of lock-in detection.
+
+-   Describe the basic working principles of a phase-locked-loop (e.g.
+    give its block-level diagram and describe each component) and some
+    practical uses of phase-locked loops. Describe the importance of
+    properly choose the regulatory filter's transfer function.
+
+-   Describe the working principles of a basic analog radio.
+
+## Displacement Sensors
+
+-   Describe the physical principles and circuit of a capacitive
+    displacement sensor.
+
+-   Describe the physical principles and circuit of a piezoelectric
+    displacement sensor.
+
+-   Describe the physical principles and circuit of an inductive
+    displacement sensor.
