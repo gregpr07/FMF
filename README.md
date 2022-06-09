@@ -56,6 +56,6 @@ http://www.damtp.cam.ac.uk/user/tong/teaching.html
 
 ### Dexter Chua Cambridge Notes
 
-Neverjetno obsežni LaTeX zapiski celotne prve stopnje študija matematike in fizike na Univerzi v Cambridgeu.
+Neverjetno obsežni LaTeX zapiski celotne prve stopnje študija matematike in fizike na Univerzi v Cambridgeu (4000+ strani).
 
 https://dec41.user.srcf.net/notes/
