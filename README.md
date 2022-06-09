@@ -45,3 +45,17 @@ Nekaj malega zapiskov iz fizikalnega praktikuma. Vsebuje tudi nekatere ostale re
 Must have formule za večino predmetov na matematiki.
 
 https://github.com/jureslak/listi-na-kolokvijih/
+
+## Izven FMFja
+
+### David Tong: Lectures on Theoretical Physics
+
+Angleški zapiski profesorja Davida Tonga na Univerzi v Cambridgeu, kompatibilni z večino netrivialnih predmetov v drugem in tretjem letniku študija fizike.
+
+http://www.damtp.cam.ac.uk/user/tong/teaching.html
+
+### Dexter Chua Cambridge Notes
+
+Neverjetno obsežni LaTeX zapiski celotne prve stopnje študija matematike in fizike na Univerzi v Cambridgeu.
+
+https://dec41.user.srcf.net/notes/
