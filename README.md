@@ -34,6 +34,12 @@ V Wordu in na roke zapiski od velike večine predmetov na FMF Fiziki.
 
 https://pengu5055.github.io
 
+### Miha Pompe zapiski & stuff
+
+Zapiski, cheatsheets, vaje in še več, vse z berljivo pisavo.
+
+https://github.com/mikepompi/FMF-Fizika-zapiski
+
 ### Shameless Self Plug
 
 Nekaj malega zapiskov iz fizikalnega praktikuma. Vsebuje tudi nekatere ostale repozitorije. More to come, ko končam.
