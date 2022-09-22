@@ -20,7 +20,7 @@ Nevem kaj bi brez tega Google Driva. Eden najboljših neuradnih resourcov, ki ga
 
 Zapiski skoraj vseh predmetov v angleščini, nekateri objektivno boljši, kot knjige ali zapiski profesorjev.
 
-https://ejmastnak.github.io/fmf.html
+https://www.ejmastnak.com/fmf.html
 
 ### Urban Duh Cheatsheets
 
